@@ -1,0 +1,21 @@
+
+/** Styles */
+
+button {
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+h1{
+    color: #00000;
+}
+
+p{
+    color: #ffffff;
+}
