@@ -30,9 +30,9 @@ h1.night{
     color: #333;
 }
 h1.night{
-    color: #eee;
+    color: rgb(15, 14, 14);
 }
 
 p.night{
-    color: #eee;
+    color: rgb(8, 8, 8);
 }
