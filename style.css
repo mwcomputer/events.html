@@ -8,14 +8,15 @@ button {
     margin-top: 20px;
 }
 
-body{
+/**Day - Mode */
+body.day{
     background-color: #eee;
 }
 
-h1{
+h1.day{
     color: #333;
 }
 
-p{
+p.day{
     color: #333;
 }
