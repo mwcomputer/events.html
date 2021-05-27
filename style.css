@@ -20,3 +20,19 @@ h1.day{
 p.day{
     color: #333;
 }
+
+/** Night -Mode*/
+
+
+
+
+h1.night{
+    color: #333;
+}
+h1.night{
+    color: #eee;
+}
+
+p.night{
+    color: #eee;
+}
